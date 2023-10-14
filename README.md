@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 <h3>Database</h3>
 
 - MySQL
+- Postgres
+- Redis
